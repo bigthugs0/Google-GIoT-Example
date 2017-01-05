@@ -20,4 +20,4 @@ https://developer.android.com/things/preview/download.html
 you can connect the hardware to Test this example as shown below
 
 
-![](http://imgur.com/a/gID6r)
+![](http://i.imgur.com/rvgpMj5.png)
